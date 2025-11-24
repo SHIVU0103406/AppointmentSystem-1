@@ -38,7 +38,7 @@ This project demonstrates key Object-Oriented Programming concepts such as class
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/AppointmentSystem.git
+git clone https://github.com/AkshatGhatiya-star/AppointmentSystem.git
 cd AppointmentSystem/src
 
 
